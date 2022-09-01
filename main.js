@@ -9,7 +9,7 @@ function initMap() {
     var marker = new google.maps.Marker({ position: russia, map: map });
 }
 
-
+//Kartikey Was Here 
 // toggle menu
 var MenuItems = document.getElementById("menu-items");
 
